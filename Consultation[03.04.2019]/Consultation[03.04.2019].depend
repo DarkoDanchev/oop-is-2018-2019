@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554307093 source:/home/danchev/oop-is-2018-2019/Consultation[03.04.2019]/main.cpp
+	"User.h"
+
+1554307443 /home/danchev/oop-is-2018-2019/Consultation[03.04.2019]/User.h
+	<iostream>
+	<cstring>
+
+1554309943 source:/home/danchev/oop-is-2018-2019/Consultation[03.04.2019]/User.cpp
+	"User.h"
+
