@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555173677 source:/home/ksimeonova/oop-is-2018-2019/consultation[13.04.2019]/main.cpp
+	<iostream>
+	<cstring>
+
